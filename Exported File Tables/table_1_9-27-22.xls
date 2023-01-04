@@ -1,0 +1,87 @@
+	RECODE of dementia_lw_2							
+	Normal	Normal	CIND	CIND	Dementia	Dementia	Total	Total
+	Col %	95% CI	Col %	95% CI	Col %	95% CI	Col %	95% CI
+Race								
+Black NH (n=628)	8.4	"[7.4,9.5]"	20.3	"[16.7,24.5]"	24	"[17.0,32.7]"	10.5	"[9.5,11.6]"
+Hispanic (n=526)	7.8	"[6.8,9.0]"	14.7	"[11.9,18.0]"	26.3	"[18.4,36.1]"	9.3	"[8.4,10.4]"
+"White NH (n=2,570)"	83.7	"[82.3,85.1]"	65	"[60.4,69.3]"	49.7	"[39.9,59.6]"	80.2	"[78.8,81.5]"
+"Total (n=3,724)"	100		100		100		100	
+								
+Pearson: Uncorrected chi2(4) = 169.8127								
+"Design-based F(3.97, 14565.58) = 36.9085 Pr = 0.000"								
+								
+sex2								
+"Female (n=2,149)"	54.2	"[52.0,56.5]"	51.2	"[46.4,56.0]"	56.5	"[46.5,66.0]"	53.9	"[51.9,55.9]"
+"Male (n=1,575)"	45.8	"[43.5,48.0]"	48.8	"[44.0,53.6]"	43.5	"[34.0,53.5]"	46.1	"[44.1,48.1]"
+"Total (n=3,724)"	100		100		100		100	
+								
+Pearson: Uncorrected chi2(2) = 1.8785								
+"Design-based F(2.00, 7326.51) = 0.7645 Pr = 0.465"								
+								
+edubin_low								
+"0 (n=1,882)"	61.7	"[59.6,63.8]"	33.1	"[28.7,37.9]"	16.8	"[10.2,26.5]"	56.5	"[54.5,58.4]"
+"1 (n=1,842)"	38.3	"[36.2,40.4]"	66.9	"[62.1,71.3]"	83.2	"[73.5,89.8]"	43.5	"[41.6,45.5]"
+"Total (n=3,724)"	100		100		100		100	
+								
+Pearson: Uncorrected chi2(2) = 219.1182								
+"Design-based F(2.00, 7321.89) = 81.5678 Pr = 0.000"								
+								
+RECODE of dementia_lw_2	page	95% CI						
+"Normal (n=2,948)"	67.5	"[67.2,67.9]"						
+CIND (n=637)	73.4	"[72.4,74.4]"						
+Dementia (n=139)	77.6	"[75.3,79.9]"						
+"Total (n=3,724)"	68.6	"[68.3,69.0]"						
+								
+RECODE of dementia_lw_2	horthvath res	95% CI						
+"Normal (n=2,948)"	0.1	"[-0.2,0.4]"						
+CIND (n=637)	-0.2	"[-0.8,0.5]"						
+Dementia (n=139)	-0.4	"[-1.8,0.9]"						
+"Total (n=3,724)"	0	"[-0.2,0.3]"						
+								
+RECODE of dementia_lw_2	hannum res	95% CI						
+"Normal (n=2,948)"	0.1	"[-0.2,0.3]"						
+CIND (n=637)	0.5	"[0.0,0.9]"						
+Dementia (n=139)	-0.6	"[-1.7,0.4]"						
+"Total (n=3,724)"	0.1	"[-0.1,0.3]"						
+								
+RECODE of dementia_lw_2	levine res	95% CI						
+"Normal (n=2,948)"	-0.2	"[-0.5,0.1]"						
+CIND (n=637)	1.1	"[0.4,1.8]"						
+Dementia (n=139)	0	"[-1.3,1.2]"						
+"Total (n=3,724)"	0	"[-0.3,0.3]"						
+								
+RECODE of dementia_lw_2	horvathskin res	95% CI						
+"Normal (n=2,948)"	0	"[-0.2,0.2]"						
+CIND (n=637)	0.2	"[-0.2,0.6]"						
+Dementia (n=139)	-0.7	"[-1.6,0.3]"						
+"Total (n=3,724)"	0	"[-0.2,0.2]"						
+								
+RECODE of dementia_lw_2	grimage res	95% CI						
+"Normal (n=2,948)"	-0.6	"[-0.8,-0.4]"						
+CIND (n=637)	1.4	"[0.9,1.9]"						
+Dementia (n=139)	1	"[-0.1,2.0]"						
+"Total (n=3,724)"	-0.2	"[-0.4,-0.1]"						
+								
+RECODE of dementia_lw_2	mpoa res	95% CI						
+"Normal (n=2,948)"	-0.6	"[-0.9,-0.4]"						
+CIND (n=637)	1	"[0.4,1.6]"						
+Dementia (n=139)	0.8	"[-0.6,2.2]"						
+"Total (n=3,724)"	-0.4	"[-0.6,-0.1]"						
+								
+RECODE of dementia_lw_2	granulocytes	95% CI						
+"Normal (n=2,948)"	61.8	"[61.4,62.2]"						
+CIND (n=637)	62.8	"[61.8,63.8]"						
+Dementia (n=139)	63.1	"[61.1,65.1]"						
+"Total (n=3,724)"	62	"[61.6,62.3]"						
+								
+RECODE of dementia_lw_2	monocytes	95% CI						
+"Normal (n=2,948)"	8.6	"[8.5,8.7]"						
+CIND (n=637)	8.7	"[8.4,8.9]"						
+Dementia (n=139)	8.4	"[7.8,8.9]"						
+"Total (n=3,724)"	8.6	"[8.5,8.7]"						
+								
+RECODE of dementia_lw_2	lynphocytes	95% CI						
+"Normal (n=2,948)"	29.6	"[29.2,30.0]"						
+CIND (n=637)	28.5	"[27.6,29.4]"						
+Dementia (n=139)	28.6	"[26.7,30.4]"						
+"Total (n=3,724)"	29.4	"[29.1,29.8]"						

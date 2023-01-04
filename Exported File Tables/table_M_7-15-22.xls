@@ -1,0 +1,35 @@
+	missing_2		
+	0	1	Total
+	Col %	Col %	Col %
+Race			
+Black NH	16.9	17.2	16.9
+Hispanic	14.1	24.3	14.6
+White NH	69.0	58.6	68.6
+Total	100.0	100.0	100.0
+
+Pearson chi2(2) = 13.9777 Pr = 0.001			
+
+sex2			
+Female	57.7	68.0	58.5
+Male	42.3	32.0	41.5
+Total	100.0	100.0	100.0
+
+Pearson chi2(1) = 11.9516 Pr = 0.001			
+
+edubin_low			
+0	50.5	51.4	50.6
+1	49.5	48.6	49.4
+Total	100.0	100.0	100.0
+
+Pearson chi2(1) = 0.0739 Pr = 0.786			
+
+dementia_lw			
+CIND	17.1	15.6	17.0
+Dementia	3.7	4.4	3.8
+Normal	79.2	79.9	79.2
+Total	100.0	100.0	100.0
+
+Pearson chi2(2) = 0.7038 Pr = 0.703			
+
+Sample Size	3,724	294	4,018
+
