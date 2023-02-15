@@ -54,5 +54,11 @@ Original Article
 
 A preprint version of this article can be found at medRxiv (https://www.medrxiv.org/content/10.1101/2022.12.23.22283919v1)
 
+## Script files
+Export File Tables: including the tables related to this project
+
+Stata Script: including the STATA .do file which contains code on creating epigenetic clock age acceleration 
+variables and tables
+
 
 
