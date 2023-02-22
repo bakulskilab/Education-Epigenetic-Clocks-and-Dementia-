@@ -2,6 +2,11 @@
 
 ## Title: Additive interaction and mediation-interaction decomposition: DNA methylation age acceleration, education, and cognitive impairment in the Health and Retirement Study
 
+## Citation Information
+12.	Ware EB, Higgins C, Harris S, Fisher JD, Bakulski KM. Additive interaction and mediation-interaction decomposition: DNA methylation age acceleration, education, and cognitive impairment in the Health and Retirement Study. In review.
+
+This Github repository contains the data management and analytic scripts to produce the following manuscript:[DNA methylation age acceleration, education, and cognitive impairment in the Health and Retirement Study](https://www.medrxiv.org/content/10.1101/2022.12.23.22283919v1.full-text)
+
 ## Abstract
 
 ### Importance: 
@@ -38,6 +43,9 @@ Accelerated DNA methylation age was associated with increased odds of
 cognitive impairment and we observed more than additive interaction effects between education and
 age acceleration on dementia. These results support the interplay of social disadvantage and biological
 aging processes on impaired cognition.
+
+## Funding
+This work was supported by grants from the National Institute on Aging (R01 AG055406, R01 AG067592, P30 AG072931, R01 AG055654, R01 AG067592-01S1, R01AG06759201, R25AG053227); and the National Institute of Minority Health and Disparities (R01 MD013299); and the National Institute of Environmental Health Sciences (P42ES017198, P30ES017885); and the National Center for Advancing Translational Sciences (UL1TR002240).
 
 
 ## Content
